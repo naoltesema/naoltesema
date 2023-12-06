@@ -1,5 +1,8 @@
-👋 Hi, I’m @naoltesema
-learning ...javascript
+# 👋 Hi there
+### Currently learning
+- Javascript
+
+
 
 
 
